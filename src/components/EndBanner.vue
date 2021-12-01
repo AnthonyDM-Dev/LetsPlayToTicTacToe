@@ -62,12 +62,6 @@ export default {
             default: false,
         },
     },
-    setup() {
-        
-    },
-    methods: {
-        
-    }
 }
 </script>
 <style lang="scss" scoped>
